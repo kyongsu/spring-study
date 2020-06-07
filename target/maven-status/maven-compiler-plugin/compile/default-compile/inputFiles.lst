@@ -1,1 +1,5 @@
-/Users/kyongsu/growth/springboot/step1/src/main/java/growth/project/step1/DemoApplication.java
+/Users/kyongsu/growth/springboot/spring-study/src/main/java/growth/project/step1/config/BeanConfig.java
+/Users/kyongsu/growth/springboot/spring-study/src/main/java/growth/project/step1/utils/UserHandleException.java
+/Users/kyongsu/growth/springboot/spring-study/src/main/java/growth/project/step1/controller/BoardController.java
+/Users/kyongsu/growth/springboot/spring-study/src/main/java/growth/project/step1/DemoApplication.java
+/Users/kyongsu/growth/springboot/spring-study/src/main/java/growth/project/step1/domain/Board.java
